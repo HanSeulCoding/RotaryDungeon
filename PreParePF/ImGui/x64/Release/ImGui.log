@@ -1,0 +1,28 @@
+﻿  ImGui.cpp
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\ImGui.cpp(2083,1): warning C4005: 'va_copy': 매크로 재정의
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\ImGui.cpp(2081): message : 'va_copy'의 이전 정의를 참조하십시오.
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\ImGui.cpp(11154,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ImGuiFileDialog.cpp
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\ImGuiFileDialog.cpp(54,1): warning C4005: 'stricmp': 매크로 재정의
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\ImGuiFileDialog.cpp(45): message : 'stricmp'의 이전 정의를 참조하십시오.
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\ImGuiFileDialog.cpp(57,1): warning C4005: 'PATH_SEP': 매크로 재정의
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\ImGuiFileDialog.cpp(48): message : 'PATH_SEP'의 이전 정의를 참조하십시오.
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\ImGuiFileDialog.cpp(2430,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  imgui_demo.cpp
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\imgui_demo.cpp(126,1): warning C4005: 'IM_NEWLINE': 매크로 재정의
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\imgui_demo.cpp(124): message : 'IM_NEWLINE'의 이전 정의를 참조하십시오.
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\imgui_demo.cpp(150,1): warning C4005: 'IMGUI_CDECL': 매크로 재정의
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\imgui_demo.cpp(148): message : 'IMGUI_CDECL'의 이전 정의를 참조하십시오.
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\imgui_demo.cpp(7534,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  imgui_draw.cpp
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\imgui_draw.cpp(128,10): error C2006: '#include': "FILENAME" 또는 <FILENAME>이 필요합니다.
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\imgui_draw.cpp(151,10): error C2006: '#include': "FILENAME" 또는 <FILENAME>이 필요합니다.
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\imgui_draw.cpp(3900,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  imgui_impl_dx11.cpp
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\imgui_impl_dx11.cpp(551,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  imgui_impl_win32.cpp
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\imgui_impl_win32.cpp(452,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  imgui_tables.cpp
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\imgui_tables.cpp(3924,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  imgui_widgets.cpp
+C:\Users\USER-PC\Desktop\PreParePF (2)\ImGui\imgui_widgets.cpp(7919,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
