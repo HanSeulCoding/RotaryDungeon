@@ -1,0 +1,12 @@
+<Materials>
+    <Material>
+        <Name>lambert2</Name>
+        <DiffuseMap></DiffuseMap>
+        <SpecularMap></SpecularMap>
+        <NormalMap></NormalMap>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Diffuse R="1" G="1" B="1" A="1"/>
+        <Specular R="1" G="1" B="1" A="25"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Material>
+</Materials>
