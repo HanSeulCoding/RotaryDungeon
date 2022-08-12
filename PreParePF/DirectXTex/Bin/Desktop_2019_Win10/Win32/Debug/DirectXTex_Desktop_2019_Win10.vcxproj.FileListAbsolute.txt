@@ -1,2 +1,0 @@
-C:\Users\PL_7B_000\Documents\Kim\Class\DX113D_2009\DirectXTex\Bin\Desktop_2019_Win10\Win32\Debug\DirectXTex.lib
-C:\Users\PL_7B_000\Documents\Kim\Class\DX113D_2009\DirectXTex\Bin\Desktop_2019_Win10\Win32\Debug\DirectXTex.pdb

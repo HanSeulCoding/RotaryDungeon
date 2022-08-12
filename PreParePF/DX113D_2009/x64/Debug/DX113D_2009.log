@@ -1,4 +1,0 @@
-﻿  ModelRenderScene.cpp
-C:\Users\USER-PC\Documents\Git\PreParePF\DX113D_2009\Scene\ModelRenderScene.cpp(18,55): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\USER-PC\Documents\Git\PreParePF\DX113D_2009\Scene\ModelRenderScene.cpp(19,49): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
-  DX113D_2009.vcxproj -> C:\Users\USER-PC\Documents\Git\PreParePF\x64\Debug\DX113D_2009.exe
